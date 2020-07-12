@@ -1,2 +1,2 @@
 ## WELCOME
-<img src = "https://media.giphy.com/media/iesRjwDDGrcEgtBYPq/giphy.gif">
+![](img src = "https://media.giphy.com/media/iesRjwDDGrcEgtBYPq/giphy.gif")
