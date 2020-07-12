@@ -1,18 +1,16 @@
-### Hello World! 😍
 
+# Welcome
+[![Twitter Badge](https://img.shields.io/badge/-@PranjalBhard-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/PranjalBhard) [![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
+[![Gmail Badge](https://img.shields.io/badge/-pranjal27bhardwaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjal27bhardwaj@gmail.com)](mailto:pranjal27bhardwaj@gmail.com)
+---
 <img src = "https://media.giphy.com/media/iesRjwDDGrcEgtBYPq/giphy.gif">
+### About 💼
+I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have experience with Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer with experience in Ethereum based Dapps. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
 
-#### Dev.to Tutorial Link:
-<pre><b><a href="https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n">How to add an awesome README to your GitHub Profile</a></b></pre>
-
-##### Made with ❤️ by [Satvik Chachra](https://github.com/satvikchachra)
-
-##### Connect with me: 
-
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/satvik_codes"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
-&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/satvikchachra/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
-
-[@satvik_codes](https://twitter.com/satvik_codes) &nbsp;&nbsp;&nbsp;
-[@satvikchachra](https://www.linkedin.com/in/satvikchachra/)
+### Hi there 👋
+- 🔭 I’m currently working on ML, DL, DS, and Blockchain projects.
+- 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
+- 👯 I’m looking to collaborate on anything related to ML and Blockchain projects.
+- 💬 Open to questions about Data Analysis and projects I've worked on.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
+- 😄 Pronouns: Machine Learning engineer and Data analyst.
