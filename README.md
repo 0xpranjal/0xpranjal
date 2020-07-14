@@ -8,6 +8,8 @@
 # Welcome
 I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have experience with Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer with experience in Ethereum based Dapps. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
 
