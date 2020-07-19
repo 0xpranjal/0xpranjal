@@ -20,3 +20,5 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
