@@ -18,7 +18,7 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
-<p  align="center">![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
 
