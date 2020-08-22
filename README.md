@@ -15,7 +15,7 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
 - 👯 I’m looking to collaborate on anything related to ML, Blockchain projects and Kaggle competitions.
 - 💬 Open to questions about Data Analysis and projects I've worked on.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
