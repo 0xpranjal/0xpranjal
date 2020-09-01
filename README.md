@@ -1,5 +1,3 @@
-
-
 [![Twitter Badge](https://img.shields.io/badge/-@AwkPranjal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/AwkPranjal) [![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
 [![Gmail Badge](https://img.shields.io/badge/-pranjal27bhardwaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjal27bhardwaj@gmail.com)](mailto:pranjal27bhardwaj@gmail.com)
 ---
@@ -18,7 +16,8 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
+Open Source contributor at @pandas-dev.
+
 ![](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
-
