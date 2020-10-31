@@ -18,6 +18,7 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 
 Open Source contributor at @[pandas-dev](https://github.com/pandas-dev/pandas).
 
-![](![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bhard27&show_icons=true))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhard27&langs_count=8)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Bhard27&count_private=true)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
