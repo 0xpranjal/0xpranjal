@@ -20,6 +20,6 @@ Open Source contributor at @[pandas-dev](https://github.com/pandas-dev/pandas).
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Bhard27&count_private=true)
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31a4vfmuhds5lj22r7nwt7cvbzw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<p  align="center">[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31a4vfmuhds5lj22r7nwt7cvbzw4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
