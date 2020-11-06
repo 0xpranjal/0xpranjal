@@ -18,6 +18,5 @@ I'm Pranjal Bhardwaj, sophomore at VIT, Vellore. I am experienced In building sc
 
 Open Source contributor at @[pandas-dev](https://github.com/pandas-dev/pandas).
 
-<p  align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31a4vfmuhds5lj22r7nwt7cvbzw4&cover_image=true&theme=default"></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
