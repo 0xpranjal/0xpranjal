@@ -18,5 +18,5 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 
 Open Source contributor at @[pandas-dev](https://github.com/pandas-dev/pandas).
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bhard27)](https://github.com/ryo-ma/github-profile-trophy)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
