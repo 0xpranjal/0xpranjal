@@ -9,10 +9,10 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Summary👋
-- 🔭 I’m currently working on ML, DL, DS, and Blockchain projects.
+- 🔭 I’m currently working on Deep Learning projects.
 - 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
-- 👯 I’m looking to collaborate on anything related to ML, Blockchain projects and Kaggle competitions.
-- 💬 Open to questions about Data Analysis and projects I've worked on.
+- 👯 I’m looking to collaborate on anything related to ML, Blockchain projects.
+- 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
