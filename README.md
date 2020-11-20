@@ -16,7 +16,6 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
-Open Source contributor at @[pandas-dev](https://github.com/pandas-dev/pandas)
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
