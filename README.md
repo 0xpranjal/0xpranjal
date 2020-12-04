@@ -17,6 +17,12 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 
 <!--START_SECTION:activity-->
+1. 🚀 Pushed 13 commits to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
+2. 💪 Opened PR [#32](https://github.com/CodeChefVIT/Stocker/pull/32) in [CodeChefVIT/Stocker](https://github.com/CodeChefVIT/Stocker)
+3. 🚀 Pushed 55 commits to [Bhard27/Data-Science-with-Julia](https://github.com/Bhard27/Data-Science-with-Julia)
+4. 💪 Opened PR [#23](https://github.com/CodeChefVIT/Stocker/pull/23) in [CodeChefVIT/Stocker](https://github.com/CodeChefVIT/Stocker)
+5. 🚀 Pushed 1 commit to [Bhard27/Stocker](https://github.com/Bhard27/Stocker)
+<!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
