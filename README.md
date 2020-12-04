@@ -15,7 +15,7 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
-
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 13 commits to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
 2. 💪 Opened PR [#32](https://github.com/CodeChefVIT/Stocker/pull/32) in [CodeChefVIT/Stocker](https://github.com/CodeChefVIT/Stocker)
