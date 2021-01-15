@@ -19,7 +19,7 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 7 commits to [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
+1. 🚀 Pushed 9 commits to [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
 2. 🎉 Merged PR [#9](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/9) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 3. ❗️ Closed issue [#3](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning/issues/3) in [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
 4. 🗣 Commented on [#3](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning/issues/3) in [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
