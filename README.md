@@ -20,10 +20,10 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-2. 🎉 Merged PR [#7](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/7) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🚀 Pushed 6 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-4. 🎉 Merged PR [#6](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/6) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. ❗️ Opened issue [#3](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning/issues/3) in [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
+2. 🎉 Merged PR [#8](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/8) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🚀 Pushed 2 commits to [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
+4. ❗️ Closed issue [#1](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning/issues/1) in [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
+5. 🗣 Commented on [#1](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning/issues/1) in [Bhard27/Pneumonia-Detection-using-Deep-Learning](https://github.com/Bhard27/Pneumonia-Detection-using-Deep-Learning)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
