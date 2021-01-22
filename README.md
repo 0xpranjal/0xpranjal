@@ -19,7 +19,7 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [Bhard27/Stock-Prediction-using-different-models](https://github.com/Bhard27/Stock-Prediction-using-different-models)
+1. 🚀 Pushed 2 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
 2. 💪 Opened PR [#1157](https://github.com/MicrosoftDocs/quantum-docs-pr/pull/1157) in [MicrosoftDocs/quantum-docs-pr](https://github.com/MicrosoftDocs/quantum-docs-pr)
 3. 🚀 Pushed 8 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
 4. 🎉 Merged PR [#11](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/11) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
