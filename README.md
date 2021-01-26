@@ -19,7 +19,7 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 3 commits to [Capital-Inc/algorithmic-trading-python](https://github.com/Capital-Inc/algorithmic-trading-python)
+1. 🚀 Pushed 18 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
 2. 💪 Opened PR [#55](https://github.com/CodeChefVIT/resources/pull/55) in [CodeChefVIT/resources](https://github.com/CodeChefVIT/resources)
 3. 🚀 Pushed 72 commits to [Bhard27/resources](https://github.com/Bhard27/resources)
 4. 💪 Opened PR [#1157](https://github.com/MicrosoftDocs/quantum-docs-pr/pull/1157) in [MicrosoftDocs/quantum-docs-pr](https://github.com/MicrosoftDocs/quantum-docs-pr)
