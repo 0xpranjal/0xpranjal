@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 18 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
-2. 💪 Opened PR [#55](https://github.com/CodeChefVIT/resources/pull/55) in [CodeChefVIT/resources](https://github.com/CodeChefVIT/resources)
-3. 🚀 Pushed 72 commits to [Bhard27/resources](https://github.com/Bhard27/resources)
-4. 💪 Opened PR [#1157](https://github.com/MicrosoftDocs/quantum-docs-pr/pull/1157) in [MicrosoftDocs/quantum-docs-pr](https://github.com/MicrosoftDocs/quantum-docs-pr)
-5. 🚀 Pushed 1 commit to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
+1. 🗣 Commented on [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🎉 Merged PR [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🚀 Pushed 18 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
+5. 💪 Opened PR [#55](https://github.com/CodeChefVIT/resources/pull/55) in [CodeChefVIT/resources](https://github.com/CodeChefVIT/resources)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
