@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/13) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-2. 🗣 Commented on [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-4. 🎉 Merged PR [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. 🚀 Pushed 15 commits to [Bhard27/quantum-docs-pr](https://github.com/Bhard27/quantum-docs-pr)
+1. 🚀 Pushed 3 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🎉 Merged PR [#14](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/14) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🗣 Commented on [#13](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/13) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🗣 Commented on [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+5. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
