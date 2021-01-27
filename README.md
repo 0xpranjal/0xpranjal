@@ -20,10 +20,10 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 3 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-2. 🎉 Merged PR [#14](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/14) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🗣 Commented on [#13](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/13) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-4. 🗣 Commented on [#12](https://github.com/vinnovateit/VIIT_Team_MNIST/issues/12) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🎉 Merged PR [#16](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/16) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🎉 Merged PR [#15](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/15) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+5. 🚀 Pushed 1 commit to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
