@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#9](https://github.com/CodeChefVIT/Git-GitHub-Sessions/pull/9) in [CodeChefVIT/Git-GitHub-Sessions](https://github.com/CodeChefVIT/Git-GitHub-Sessions)
-2. 💪 Opened PR [#9](https://github.com/CodeChefVIT/Git-GitHub-Sessions/pull/9) in [CodeChefVIT/Git-GitHub-Sessions](https://github.com/CodeChefVIT/Git-GitHub-Sessions)
-3. 🚀 Pushed 3 commits to [Bhard27/Git-GitHub-Sessions](https://github.com/Bhard27/Git-GitHub-Sessions)
-4. 🎉 Merged PR [#22](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/22) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+1. 🚀 Pushed 3 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🎉 Merged PR [#24](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/24) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🎉 Merged PR [#23](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/23) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+5. ❌ Closed PR [#9](https://github.com/CodeChefVIT/Git-GitHub-Sessions/pull/9) in [CodeChefVIT/Git-GitHub-Sessions](https://github.com/CodeChefVIT/Git-GitHub-Sessions)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
