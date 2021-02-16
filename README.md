@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 1 commit to [Bhard27/pandas](https://github.com/Bhard27/pandas)
-2. 💪 Opened NaN commits in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-3. 🗣 Commented on [#39845](https://github.com/pandas-dev/pandas/issues/39845) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-4. 🗣 Commented on [#39823](https://github.com/pandas-dev/pandas/issues/39823) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-5. 🚀 Pushed 2 commits to [Soumya007-developer/Winter-Research-VIT](https://github.com/Soumya007-developer/Winter-Research-VIT)
+1. 🚀 Pushed 5 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
+2. 💪 Opened PR [#39849](https://github.com/pandas-dev/pandas/pull/39849) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+3. 🚀 Pushed 35 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
+4. 🗣 Commented on [#39845](https://github.com/pandas-dev/pandas/issues/39845) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+5. 🗣 Commented on [#39823](https://github.com/pandas-dev/pandas/issues/39823) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
