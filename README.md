@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 41 commits to [Soumya007-developer/Winter-Research-VIT](https://github.com/Soumya007-developer/Winter-Research-VIT)
-2. 🎉 Merged PR [#24](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/24) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-4. 🎉 Merged PR [#23](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/23) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. ❌ Closed PR [#9](https://github.com/CodeChefVIT/Git-GitHub-Sessions/pull/9) in [CodeChefVIT/Git-GitHub-Sessions](https://github.com/CodeChefVIT/Git-GitHub-Sessions)
+1. 🗣 Commented on [#39823](https://github.com/pandas-dev/pandas/issues/39823) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+2. 🚀 Pushed 41 commits to [Soumya007-developer/Winter-Research-VIT](https://github.com/Soumya007-developer/Winter-Research-VIT)
+3. 🎉 Merged PR [#24](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/24) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+5. 🎉 Merged PR [#23](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/23) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
