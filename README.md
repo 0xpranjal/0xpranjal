@@ -4,7 +4,7 @@
 <p  align="center"><img height="500" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have foundational knowledge about Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer with experience in Smart Contract development. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
+I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. Blockchain enthusiast and developer with experience in Smart Contract development. I am also Familiar with tech-stack like Ethereum and Hyperledger Fabric frameworkExperienced in building communities and scaling plans for technical organisations. I also have foundational knowledge about Cyber Security frameworks and Network protocols.
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
