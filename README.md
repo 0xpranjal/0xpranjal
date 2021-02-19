@@ -4,14 +4,14 @@
 <p  align="center"><img height="500" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have foundational knowledge about Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer with experience in Smart Contract developemnt. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
+I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. I also have foundational knowledge about Cyber Security frameworks and Network protocols. Blockchain enthusiast and developer with experience in Smart Contract development. Business analytics, Sales, Digital Marketing are some of the areas I have gathered foundational knowledge. Experienced in making business and scaling plans for organizations.
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Summary👋
-- 🔭 I’m currently working on Deep Learning projects.
-- 👨🏼‍💻 Skilled in Data visualization and deriving conclusions.
-- 👯 I’m looking to collaborate on anything related to ML, Blockchain projects.
+- 🔭 I’m currently working on Deep Learning research projects.
+- 👨🏼‍💻 Skilled in Machine Learning, Data Visualisations and technical writing.
+- 👯 I’m looking to collaborate on research papers related to Machine Learning.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
