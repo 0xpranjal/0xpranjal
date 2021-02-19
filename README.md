@@ -8,6 +8,8 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
 ### Summary👋
 - 🔭 I’m currently working on Deep Learning research projects.
 - 👨🏼‍💻 Skilled in Machine Learning, Data Visualisations and technical writing.
@@ -15,7 +17,14 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 💬 Open to questions about Machine Learning and projects I've worked on.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
-
+### Recent Activity
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#38990](https://github.com/pandas-dev/pandas/issues/38990) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+2. 🗣 Commented on [#39849](https://github.com/pandas-dev/pandas/issues/39849) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+3. 🚀 Pushed 5 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
+4. 💪 Opened PR [#39849](https://github.com/pandas-dev/pandas/pull/39849) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+5. 🚀 Pushed 1 commit to [Bhard27/pandas](https://github.com/Bhard27/pandas)
+<!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
+
