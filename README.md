@@ -19,10 +19,10 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-2. 🎉 Merged PR [#25](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/25) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🚀 Pushed 111 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
-4. 💪 Opened PR [#39965](https://github.com/pandas-dev/pandas/pull/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+1. 🚀 Pushed 4 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🎉 Merged PR [#26](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/26) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🎉 Merged PR [#25](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/25) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 5. 🚀 Pushed 1 commit to [Bhard27/pandas](https://github.com/Bhard27/pandas)
 <!--END_SECTION:activity-->
 
