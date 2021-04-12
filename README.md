@@ -20,10 +20,10 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-2. 🎉 Merged PR [#41](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/41) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-3. 🎉 Merged PR [#42](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/42) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-4. 🎉 Merged PR [#40](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/40) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
-5. 🎉 Merged PR [#39](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/39) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+2. 🎉 Merged PR [#43](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/43) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+3. 🎉 Merged PR [#41](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/41) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+4. 🎉 Merged PR [#42](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/42) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
+5. 🎉 Merged PR [#40](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/40) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
