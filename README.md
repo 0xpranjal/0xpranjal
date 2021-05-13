@@ -19,7 +19,7 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 4 commits to [Bhard27/Bhilai-Hacks-Blockchain-Talk](https://github.com/Bhard27/Bhilai-Hacks-Blockchain-Talk)
+1. 🚀 Pushed 5 commits to [Bhard27/Bhilai-Hacks-Blockchain-Talk](https://github.com/Bhard27/Bhilai-Hacks-Blockchain-Talk)
 2. 🗣 Commented on [#39965](https://github.com/pandas-dev/pandas/issues/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 3. 🚀 Pushed 3 commits to [Bhard27/Bhard27.github.io](https://github.com/Bhard27/Bhard27.github.io)
 4. 🎉 Merged PR [#49](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/49) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
