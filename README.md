@@ -19,8 +19,8 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Pushed 7 commits to [Bhard27/Breast-cancer-prediction](https://github.com/Bhard27/Breast-cancer-prediction)
-2. 🗣 Commented on [#39965](https://github.com/pandas-dev/pandas/issues/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+1. 🗣 Commented on [#39965](https://github.com/pandas-dev/pandas/issues/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+2. 🚀 Pushed 7 commits to [Bhard27/Breast-cancer-prediction](https://github.com/Bhard27/Breast-cancer-prediction)
 3. 🚀 Pushed 3 commits to [Bhard27/Bhard27.github.io](https://github.com/Bhard27/Bhard27.github.io)
 4. 🎉 Merged PR [#49](https://github.com/vinnovateit/VIIT_Team_MNIST/pull/49) in [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
 5. 🚀 Pushed 2 commits to [vinnovateit/VIIT_Team_MNIST](https://github.com/vinnovateit/VIIT_Team_MNIST)
