@@ -19,11 +19,11 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
-2. 🚀 Pushed 1000 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
-3. 🗣 Commented on [#39965](https://github.com/pandas-dev/pandas/issues/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-4. 🚀 Pushed 7 commits to [Bhard27/Breast-cancer-prediction](https://github.com/Bhard27/Breast-cancer-prediction)
-5. 🚀 Pushed 1 commit to [Bhard27/Bhard27.github.io](https://github.com/Bhard27/Bhard27.github.io)
+1. ❗️ Opened issue [#30](https://github.com/SimonBlanke/Hyperactive/issues/30) in [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive)
+2. ❗️ Opened issue [#4](https://github.com/AmineDiro/Adversarial-Attacks/issues/4) in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
+3. 🚀 Pushed 1000 commits to [Bhard27/pandas](https://github.com/Bhard27/pandas)
+4. 🗣 Commented on [#39965](https://github.com/pandas-dev/pandas/issues/39965) in [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+5. 🚀 Pushed 1 commit to [Bhard27/Breast-cancer-prediction](https://github.com/Bhard27/Breast-cancer-prediction)
 <!--END_SECTION:activity-->
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhard27)
