@@ -1,7 +1,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AwkPranjal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/PranjalBhard)](https://twitter.com/AwkPranjal) [![Linkedin Badge](https://img.shields.io/badge/-pranjalbhardwaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/)
 [![Gmail Badge](https://img.shields.io/badge/-pranjalbhardwaj@ieee.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjalbhardwaj@ieee.org)](mailto:pranjalbhardwaj@ieee.org)
 ---
-<p  align="center"><img height="500" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
+<p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. Blockchain enthusiast and developer with experience in Smart Contract development. I am also Familiar with tech-stack like Ethereum and Hyperledger Fabric frameworkExperienced in building communities and scaling plans for technical organisations. I also have foundational knowledge about Cyber Security frameworks and Network protocols.
