@@ -19,9 +19,9 @@ I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In bui
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/tassossapalidis/latextgan/issues/1) in [tassossapalidis/latextgan](https://github.com/tassossapalidis/latextgan)
-2. ❗️ Closed issue [#2](https://github.com/Bhard27/Bhard27/issues/2) in [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
-3. 🚀 Pushed 1 commit to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
+1. 🚀 Pushed 1 commit to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
+2. ❗️ Opened issue [#1](https://github.com/tassossapalidis/latextgan/issues/1) in [tassossapalidis/latextgan](https://github.com/tassossapalidis/latextgan)
+3. ❗️ Closed issue [#2](https://github.com/Bhard27/Bhard27/issues/2) in [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
 4. 🗣 Commented NaN commits in [AmineDiro/Adversarial-Attacks](https://github.com/AmineDiro/Adversarial-Attacks)
 5. 🗣 Commented on [#30](https://github.com/SimonBlanke/Hyperactive/issues/30) in [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 <!--END_SECTION:activity-->
