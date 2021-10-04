@@ -4,7 +4,7 @@
 <p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm Pranjal Bhardwaj, sophomore student at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. Blockchain enthusiast and developer with experience in Smart Contract development. I am also Familiar with tech-stack like Ethereum and Hyperledger Fabric framework. I also have foundational knowledge about Cyber Security frameworks and Network protocols.I have been researching about Adversarial attacks with the help of Deep Learning and would love to collaborate over such projects
+I'm Pranjal Bhardwaj, senior at VIT, Vellore. I am experienced In building scalable Machine learning models and Artificial Intelligence algorithms. Blockchain enthusiast and developer with experience in Smart Contract development. I am also Familiar with tech-stack like Ethereum and Hyperledger Fabric framework. I also have foundational knowledge about Cyber Security frameworks and Network protocols.I have been researching about Adversarial attacks with the help of Deep Learning and would love to collaborate over such projects
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
