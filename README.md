@@ -15,7 +15,7 @@ I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Comput
 - 👨🏼‍💻 Skilled in Machine Learning, Data Visualisations and technical writing.
 - 👯 I’m looking to collaborate on research papers related to Machine Learning.
 - 💬 Open to questions about Machine Learning and projects I've worked on.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjal27bhardwaj@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjalbhardwaj@ieee.org)
 - 😄 Pronouns: Machine Learning engineer and Data analyst.
 ### Recent Activity
 <!--START_SECTION:activity-->
