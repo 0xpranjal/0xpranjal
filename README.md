@@ -12,11 +12,9 @@ I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Comput
 
 ### Summary👋
 - 🔭 I’m currently working on Deep Learning research projects.
-- 👨🏼‍💻 Skilled in Machine Learning, Data Visualisations and technical writing.
-- 👯 I’m looking to collaborate on research papers related to Machine Learning.
-- 💬 Open to questions about Machine Learning and projects I've worked on.
+- 👯 I’m looking to collaborate on research papers related to GANs, Swarm intelligence, Biomedical Imaging, Federated learning, and Adversarial ML.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/pranjal-bhardwaj-a85263188/) , [Email](mailto:pranjalbhardwaj@ieee.org)
-- 😄 Pronouns: Machine Learning engineer and Data analyst.
+
 ### Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Pushed 1 commit to [Bhard27/Bhard27](https://github.com/Bhard27/Bhard27)
