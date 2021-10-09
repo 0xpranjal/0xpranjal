@@ -24,5 +24,4 @@ I'm a third-year undergraduate student at VIT, Vellore pursuing B.Tech in Comput
 5. 🗣 Commented on [#30](https://github.com/SimonBlanke/Hyperactive/issues/30) in [SimonBlanke/Hyperactive](https://github.com/SimonBlanke/Hyperactive)
 <!--END_SECTION:activity-->
 
-![](https://github-profile-trophy.vercel.app/?username=Bhard27)
 
