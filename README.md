@@ -5,7 +5,7 @@
 <p  align="center"><img height="380" src = "https://github.com/Bhard27/Bhard27/blob/master/mee.gif"></p>
 
 # Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm a Developer Relations Engineer at Mantle network. 
+I'm a Developer Relations Engineer at Hemi network. 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Bhard27.Bhard27)
 
